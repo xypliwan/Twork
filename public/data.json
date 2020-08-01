@@ -1,0 +1,44 @@
+{
+  "data": {
+    "node_name": "发起人",
+    "type": 0,
+    "priority_level": "",
+    "condition_list": [],
+    "node_user_list": [],
+    "promoter": {
+      "department": [],
+      "user": [],
+      "nameArr": []
+    },
+    "child_node": {
+      "node_name": "抄送人",
+      "type": 2,
+      "priority_level": "",
+      "condition_list": [],
+      "node_user_list": [],
+      "cc_people": {
+        "department": [],
+        "user": [],
+        "nameArr": []
+      },
+      "can_select_cc_people": 1,
+      "child_node": {
+        "node_name": "处理人",
+        "type": 1,
+        "priority_level": "",
+        "approver": [],
+        "deal_approver": 2,
+        "approver_name": "",
+        "have_check": 1,
+        "can_add_check": 1,
+        "check": [],
+        "condition_list": [],
+        "node_user_list": [],
+        "child_node": null,
+        "condition_nodes": []
+      },
+      "condition_nodes": []
+    },
+    "condition_nodes": []
+  }
+}
