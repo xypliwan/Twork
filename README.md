@@ -34,16 +34,16 @@ Twork-后台管理
 
 ## 项目其它访问地址
 
-    gitlab仓库：http://ec-gitlab.ecgtool.com/t-work/twork-vue-manage
-    接口文档：http://api.tool.ecgtool.com/project/29/interface/api
+    gitlab仓库：xxxxxxxxxxxx
+    接口文档：xxxxxxxxxxxxx
 
-    账号: 黄波  密码: ec@123456  编码: ec
+    账号: xxxx  密码: xxx  编码: xxx
 
 ## 接口环境
 
-    正式线地址:http://ecsapi.ecgtool.com
+    正式线地址:xxxxx
     测试线地址:http://ecsapi-test.ecgtool.com
 
 ## 项目简介
 
-    towrk后台管理系列，方便团队协同办公。目前主要模块有：角色权限，流程管理，业务场景，汇报管理
+    towrk后台管理系统，团队智能协同办公。目前主要模块有：角色权限，流程管理，业务场景，汇报管理
