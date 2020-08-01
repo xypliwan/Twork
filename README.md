@@ -34,15 +34,10 @@ Twork-后台管理
 
 ## 项目其它访问地址
 
-    gitlab仓库：xxxxxxxxxxxx
-    接口文档：xxxxxxxxxxxxx
+    测试线：http://tw-manage-test.ecgtool.com
 
-    账号: xxxx  密码: xxx  编码: xxx
+    账号: 黄波  密码: ec@123456  编码: ec
 
-## 接口环境
-
-    正式线地址:xxxxx
-    测试线地址:http://ecsapi-test.ecgtool.com
 
 ## 项目简介
 
